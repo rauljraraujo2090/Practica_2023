@@ -264,7 +264,7 @@
                                             data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent"
                                             aria-expanded="false" aria-label="Toggle navigation">Paginas</a>
                                         <ul class="sub-menu collapse" id="submenu-1-2">
-                                            <li class="nav-item"><a href="about-us.php">Sobre Nosotros</a></li>
+                                            <li class="nav-item"><a href="sobre_nosotros.php">Sobre Nosotros</a></li>
                                             <li class="nav-item"><a href="preguntas.php">Preguntas Más Frecuentes</a></li>
                                             <li class="nav-item"><a href="login.html">Login</a></li>
                                             <li class="nav-item"><a href="register.html">Register</a></li>
