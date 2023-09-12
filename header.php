@@ -102,7 +102,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-7">
                         <!-- Start Header Logo -->
-                        <a class="navbar-brand" href="index.html">
+                        <a class="navbar-brand" href="index.php">
                             <img src="assets/images/logo/omega_logos.svg" alt="Logo">
                         </a>
                         <!-- End Header Logo -->
@@ -257,15 +257,15 @@
                             <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                 <ul id="nav" class="navbar-nav ms-auto">
                                     <li class="nav-item">
-                                        <a href="index.html" class="active" aria-label="Toggle navigation">Inicio</a>
+                                        <a href="index.php" class="active" aria-label="Toggle navigation">Inicio</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
                                             data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent"
                                             aria-expanded="false" aria-label="Toggle navigation">Paginas</a>
                                         <ul class="sub-menu collapse" id="submenu-1-2">
-                                            <li class="nav-item"><a href="about-us.html">Sobre Nosotros</a></li>
-                                            <li class="nav-item"><a href="faq.html">Faq</a></li>
+                                            <li class="nav-item"><a href="about-us.php">Sobre Nosotros</a></li>
+                                            <li class="nav-item"><a href="preguntas.php">Preguntas Más Frecuentes</a></li>
                                             <li class="nav-item"><a href="login.html">Login</a></li>
                                             <li class="nav-item"><a href="register.html">Register</a></li>
                                             <li class="nav-item"><a href="mail-success.html">Mail Success</a></li>
@@ -297,7 +297,7 @@
                                         </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.html" aria-label="Toggle navigation">Contacto</a>
+                                        <a href="contact.php" aria-label="Toggle navigation">Contacto</a>
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
