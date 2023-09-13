@@ -157,8 +157,13 @@ include('header.php');
                                 <h1 class="h1">Omega genius tu mejor eleccion</h1>
                                 <h3 class="h2">No busques en otros lugares </h3>
                                 <p>
+<<<<<<< HEAD
                                     Ofertas en todo componente para tu pc
                                     
+=======
+                                    We bring you 100% free CSS templates for your websites. 
+                                    If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
+>>>>>>> 3931eea874655d713206e0f6ab59806f57ef78c2
                                 </p>
                             </div>
                         </div>
@@ -200,7 +205,11 @@ include('header.php');
                         <div class="hero-slider">
                             <!-- Start Single Slider -->
                             <div class="single-slider"
+<<<<<<< HEAD
                                 style="background-image: url(assets/images/hero/slider-bg1.jpg);">
+=======
+                                style="background-image: url(assets/images/hero/3333.jpg);">
+>>>>>>> 3931eea874655d713206e0f6ab59806f57ef78c2
                                 <div class="content">
                                     <h2><span>No restocking fee ($35 savings)</span>
                                         M75 Sport Watch
@@ -216,7 +225,11 @@ include('header.php');
                             <!-- End Single Slider -->
                             <!-- Start Single Slider -->
                             <div class="single-slider"
+<<<<<<< HEAD
                                 style="background-image: url(assets/images/hero/slider-bg2.jpg);">
+=======
+                                style="background-image: url(assets/images/hero/55.jpg);">
+>>>>>>> 3931eea874655d713206e0f6ab59806f57ef78c2
                                 <div class="content">
                                     <h2><span>Big Sale Offer</span>
                                         Get the Best Deal on CCTV Camera
@@ -230,6 +243,34 @@ include('header.php');
                                 </div>
                             </div>
                             <!-- End Single Slider -->
+<<<<<<< HEAD
+=======
+
+
+
+
+
+
+                            <div class="single-slider"
+                                style="background-image: url(assets/images/hero/66.jpg);">
+                                <div class="content">
+                                    <h2><span>Big Sale Offer</span>
+                                        Get the Best Deal on CCTV Camera
+                                    </h2>
+                                    <p>Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor incididunt ut
+                                        labore dolore magna aliqua.</p>
+                                    <h3><span>Combo Only:</span> $590.00</h3>
+                                    <div class="button">
+                                        <a href="product-grids.html" class="btn">Shop Now</a>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+
+
+>>>>>>> 3931eea874655d713206e0f6ab59806f57ef78c2
                         </div>
                         <!-- End Hero Slider -->
                     </div>
@@ -1188,7 +1229,11 @@ include('footer.php');
         tns({
             container: '.hero-slider',
             slideBy: 'page',
+<<<<<<< HEAD
             autoplay: true,
+=======
+            autoplay: false,
+>>>>>>> 3931eea874655d713206e0f6ab59806f57ef78c2
             autoplayButtonOutput: false,
             mouseDrag: true,
             gutter: 0,
@@ -1201,9 +1246,15 @@ include('footer.php');
         //======== Brand Slider
         tns({
             container: '.brands-logo-carousel',
+<<<<<<< HEAD
             autoplay: true,
             autoplayButtonOutput: false,
             mouseDrag: true,
+=======
+            autoplay: false,
+            autoplayButtonOutput: false,
+            mouseDrag: false,
+>>>>>>> 3931eea874655d713206e0f6ab59806f57ef78c2
             gutter: 15,
             nav: false,
             controls: false,
