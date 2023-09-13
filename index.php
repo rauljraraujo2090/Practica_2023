@@ -202,7 +202,7 @@ include('header.php');
                         <div class="hero-slider">
                             <!-- Start Single Slider -->
                             <div class="single-slider"
-                        
+                                
                                 style="background-image: url(assets/images/hero/3333.jpg);">
                                 <div class="content">
                                     <h2><span>No restocking fee ($35 savings)</span>
