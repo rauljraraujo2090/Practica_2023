@@ -193,9 +193,9 @@
         tns({
             container: '.hero-slider',
             slideBy: 'page',
-            autoplay: true,
+            autoplay: false,
             autoplayButtonOutput: false,
-            mouseDrag: true,
+            mouseDrag: false,
             gutter: 0,
             items: 1,
             nav: false,
@@ -206,9 +206,9 @@
         //======== Brand Slider
         tns({
             container: '.brands-logo-carousel',
-            autoplay: true,
+            autoplay: false,
             autoplayButtonOutput: false,
-            mouseDrag: true,
+            mouseDrag: false,
             gutter: 15,
             nav: false,
             controls: false,

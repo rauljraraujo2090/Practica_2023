@@ -1213,7 +1213,7 @@ include('footer.php');
         tns({
             container: '.hero-slider',
             slideBy: 'page',
-            autoplay: true,
+            autoplay: false,
             autoplayButtonOutput: false,
             mouseDrag: true,
             gutter: 0,
@@ -1226,9 +1226,9 @@ include('footer.php');
         //======== Brand Slider
         tns({
             container: '.brands-logo-carousel',
-            autoplay: true,
+            autoplay: false,
             autoplayButtonOutput: false,
-            mouseDrag: true,
+            mouseDrag: false,
             gutter: 15,
             nav: false,
             controls: false,
