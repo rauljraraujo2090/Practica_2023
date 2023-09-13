@@ -219,7 +219,7 @@ include('header.php');
                             <!-- End Single Slider -->
                             <!-- Start Single Slider -->
                             <div class="single-slider"
-                                style="background-image: url(assets/images/hero/slider-bg2.jpg);">
+                                
                                 style="background-image: url(assets/images/hero/55.jpg);">
                                 <div class="content">
                                     <h2><span>Big Sale Offer</span>
