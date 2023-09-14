@@ -78,12 +78,16 @@
                 <div class="col-lg-6 col-md-12 col-12">
                     <!-- content-1 start -->
                     <div class="content-right">
-                        <h2>ShopGrids - Your Trusted & Reliable Partner.</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam id purus at risus
-                            pellentesque faucibus a quis eros. In eu fermentum leo. Integer ut eros lacus. Proin ut
-                            accumsan leo. Morbi vitae est eget dolor consequat aliquam eget quis dolor. Mauris rutrum
-                            fermentum erat, at euismod lorem pharetra nec. Duis erat lectus, ultrices euismod sagittis.
+                        <h2>Omega Genius: Su Socio Confiable Y Seguro.</h2>
+                        <p>Somos Grupo Omega Genius, empresa líder en el mercado tecnológico. Tenemos más de 15 años de experiencia en el rubro digital.
+
+Ofrecemos ofertas únicas en computadoras, impresoras, laptops, notebooks, monitores, servidores, periféricos, accesorios, software y la especializada zona gamer. Además, contamos con una amplia variedad de accesorios, piezas y equipos de cómputo de alta gama.
+
+Asimismo, brindamos un excelente servicio de posventa. Todos los productos y servicios que ofrecemos están garantizados. Queremos que nuestros clientes experimenten un óptimo proceso de compra.
+
+Estamos en los centros tecnológicos más grandes del país: Compuplaza, Cyberplaza, Compuwilson y Compupalace.
                         </p>
+               
                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eius mod tempor incididunt
                             ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
                             laboris nisi aliquip ex ea commodo consequat.</p>
