@@ -122,6 +122,10 @@ include('header.php');
                                     <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">Unsplash</a> and
                                     <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">Icons 8</a>.
                                 </p>
+                                <br>
+                                <div class="button">
+                                        <a href="product-grids.html" class="btn">ir Ahora</a>
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -136,11 +140,16 @@ include('header.php');
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
                                 <h1 class="h1">SERVICIOS TECNOLOGICOS</h1>
-                                <h3 class="h2">Conexion de internet a tu hogar</h3>
+                                <h2 class="h2">Realizamos Servicios de todo tipo en general</h2>
                                 <p>
                                     Instalacion de antivirus, servicio de soporte tecnico
                                     You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
                                 </p>
+                                <br>
+                                
+                                <div class="button">
+                                        <a href="servicios.php" class="btn">ir Ahora</a>
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -162,6 +171,10 @@ include('header.php');
                                     We bring you 100% free CSS templates for your websites. 
                                     If you wish to support TemplateMo, please make a small contribution via PayPal or tell your friends about our website. Thank you.
                                 </p>
+                                <br>
+                                <div class="button">
+                                        <a href="product-grids.html" class="btn">ir Ahora</a>
+                                    </div>
                             </div>
                         </div>
                     </div>
@@ -283,10 +296,11 @@ include('header.php');
                             <!-- Start Small Banner -->
                             <div class="hero-small-banner style2">
                                 <div class="content">
-                                    <h2>Weekly Sale!</h2>
-                                    <p>Saving up to 50% off all online store items this week.</p>
+                                    <h2>¡Oferta semanal!
+</h2>
+                                    <p>Esta semana ahorra hasta un 50 % en todos los artículos de la tienda online.</p>
                                     <div class="button">
-                                        <a class="btn" href="product-grids.html">Shop Now</a>
+                                        <a class="btn" href="product-grids.html">Compra ahora</a>
                                     </div>
                                 </div>
                             </div>
