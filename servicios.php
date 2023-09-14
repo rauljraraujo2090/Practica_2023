@@ -58,7 +58,7 @@
             </div>
             <button type="button" id="whats-openPopup" class="whatsapp-button">
                 <div class="float" >
-                <i class="fa-brands fa-whatsapp my-float"></i></div>
+  <i class="fa fa-whatsapp my-float"></i></div>
             </button>
             <div class="circle-anime"></div>
         </div>
