@@ -75,7 +75,7 @@ include('header.php');
                     <div class="col-12">
                         <div class="section-title">
                             <h2>Contactenos</h2>
-                            <p>Hay muchas variaciones de pasajes de Lorem Ipsum disponibles, pero la mayoría ha sufrido alguna alteración.</p>
+                            <p>Hay muchas empresas pero ninguno como nosotros estamos a tu disposición</p>
                         </div>
                     </div>
                 </div>
@@ -97,8 +97,8 @@ include('header.php');
                                     <i class="lni lni-phone"></i>
                                     <h3>Llamanos al</h3>
                                     <ul>
-                                        <li><a href="tel:+18005554400">+1 800 555 44 00 (Whatsap)</a></li>
-                                        <li><a href="tel:+321556667890">+321 55 666 7890</a></li>
+                                        <li><a href="tel:+18005554400">(+51) 966 185 308(Whatsap)</a></li>
+                                        <li><a href="tel:+321556667890">(+51) 966 185 308</a></li>
                                     </ul>
                                 </div>
                                 <!-- End Single Info -->
