@@ -2,7 +2,7 @@
  <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet">
 
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+
 
 <!----PORTADA-->
 
@@ -15,7 +15,7 @@
 
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
-<link rel="stylesheet" href="assets2/css/fontawesome.min.css">
+
 
 
 
