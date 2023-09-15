@@ -285,16 +285,7 @@
                                         </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
-                                            data-bs-target="#submenu-1-4" aria-controls="navbarSupportedContent"
-                                            aria-expanded="false" aria-label="Toggle navigation">Blog</a>
-                                        <ul class="sub-menu collapse" id="submenu-1-4">
-                                            <li class="nav-item"><a href="blog-grid-sidebar.html">Blog Grid Sidebar</a>
-                                            </li>
-                                            <li class="nav-item"><a href="blog-single.html">Blog Single</a></li>
-                                            <li class="nav-item"><a href="blog-single-sidebar.html">Blog Single
-                                                    Sibebar</a></li>
-                                        </ul>
+                                        <a href="servicios.php" class="active" aria-label="Toggle navigation">Servicios</a>
                                     </li>
                                     <li class="nav-item">
                                         <a href="contact.php" aria-label="Toggle navigation">Contacto</a>
@@ -353,8 +344,8 @@
             container: '.hero-slider',
             slideBy: 'page',
             autoplay: false,
-            autoplayButtonOutput: false,
-            mouseDrag: false,
+            autoplayButtonOutput: true,
+            mouseDrag: true,
             gutter: 0,
             items: 1,
             nav: false,
@@ -366,8 +357,8 @@
         tns({
             container: '.brands-logo-carousel',
             autoplay: false,
-            autoplayButtonOutput: false,
-            mouseDrag:false,
+            autoplayButtonOutput:true,
+            mouseDrag:true,
             gutter: 15,
             nav: false,
             controls: false,
