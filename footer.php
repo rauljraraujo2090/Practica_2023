@@ -117,11 +117,11 @@
                             <div class="single-footer f-link">
                                 <h3>Información</h3>
                                 <ul>
-                                    <li><a href="javascript:void(0)">Sobre Nosotros</a></li>
-                                    <li><a href="javascript:void(0)">Contáctenos</a></li>
+                                    <li><a href="sobre_nosotros.php">Sobre Nosotros</a></li>
+                                    <li><a href="contact.php">Contáctenos</a></li>
                                     <li><a href="javascript:void(0)">Descargas</a></li>
                                     <li><a href="javascript:void(0)">Mapa del sitio</a></li>
-                                    <li><a href="javascript:void(0)">Página de preguntas frecuentes </a></li>
+                                    <li><a href="preguntas.php">Página de preguntas frecuentes </a></li>
                                 </ul>
                             </div>
                             <!-- End Single Widget -->
