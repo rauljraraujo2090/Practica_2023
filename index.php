@@ -1079,9 +1079,10 @@ include('header.php');
             <div class="row">
                 <div class="col-12">
                     <div class="section-title">
-                        <h2>Our Latest News</h2>
-                        <p>There are many variations of passages of Lorem
-                            Ipsum available, but the majority have suffered alteration in some form.</p>
+                        <h2>Nuestras Ultimas Novedades</h2>
+                        <p>Tenemos productos recien llegados, pc de ultima generación
+                           con descuentos unicos no te lo pierdas
+                        </p>
                     </div>
                 </div>
             </div>
@@ -1091,16 +1092,16 @@ include('header.php');
                     <div class="single-blog">
                         <div class="blog-img">
                             <a href="blog-single-sidebar.html">
-                                <img src="assets/images/blog/blog-1.jpg" alt="#">
+                                <img src="assets/images/blog/pc_2.jpg" alt="#">
                             </a>
                         </div>
                         <div class="blog-content">
-                            <a class="category" href="javascript:void(0)">eCommerce</a>
+                            <a class="category" href="javascript:void(0)">PC Gamer</a>
                             <h4>
-                                <a href="blog-single-sidebar.html">What information is needed for shipping?</a>
+                                <a href="blog-single-sidebar.html">OmegaGenius pc gama intel</a>
                             </h4>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                incididunt.</p>
+                            <p> pc completo de alta gama con procesador excelente para juegos en linea 
+                            </p>
                             <div class="button">
                                 <a href="javascript:void(0)" class="btn">Read More</a>
                             </div>
@@ -1113,7 +1114,7 @@ include('header.php');
                     <div class="single-blog">
                         <div class="blog-img">
                             <a href="blog-single-sidebar.html">
-                                <img src="assets/images/blog/blog-2.jpg" alt="#">
+                                <img src="assets/images/blog/pc_3.webp" alt="#">
                             </a>
                         </div>
                         <div class="blog-content">
@@ -1135,7 +1136,7 @@ include('header.php');
                     <div class="single-blog">
                         <div class="blog-img">
                             <a href="blog-single-sidebar.html">
-                                <img src="assets/images/blog/blog-3.jpg" alt="#">
+                                <img src="assets/images/blog/pc_4.jpg" alt="#">
                             </a>
                         </div>
                         <div class="blog-content">
@@ -1168,8 +1169,8 @@ include('header.php');
                         <i class="lni lni-delivery"></i>
                     </div>
                     <div class="media-body">
-                        <h5>Free Shipping</h5>
-                        <span>On order over $99</span>
+                        <h5>Envio Gratis</h5>
+                        <span>En pedidos superiores de 200</span>
                     </div>
                 </li>
                 <!-- Money Return -->
@@ -1178,8 +1179,8 @@ include('header.php');
                         <i class="lni lni-support"></i>
                     </div>
                     <div class="media-body">
-                        <h5>24/7 Support.</h5>
-                        <span>Live Chat Or Call.</span>
+                        <h5>Atencion 24/7</h5>
+                        <span>Por chat y llamada</span>
                     </div>
                 </li>
                 <!-- Support 24/7 -->
@@ -1188,8 +1189,8 @@ include('header.php');
                         <i class="lni lni-credit-cards"></i>
                     </div>
                     <div class="media-body">
-                        <h5>Online Payment.</h5>
-                        <span>Secure Payment Services.</span>
+                        <h5>Pago con tarjeta</h5>
+                        <span>Servicios de pago seguro</span>
                     </div>
                 </li>
                 <!-- Safe Payment -->
@@ -1198,8 +1199,8 @@ include('header.php');
                         <i class="lni lni-reload"></i>
                     </div>
                     <div class="media-body">
-                        <h5>Easy Return.</h5>
-                        <span>Hassle Free Shopping.</span>
+                        <h5>Devolucion</h5>
+                        <span>Compras sin problemas</span>
                     </div>
                 </li>
             </ul>

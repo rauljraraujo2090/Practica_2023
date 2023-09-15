@@ -56,9 +56,9 @@
                                 </h4>
                                 <div class="newsletter-form-head">
                                     <form action="#" method="get" target="_blank" class="newsletter-form">
-                                        <input name="EMAIL" placeholder="Email address here..." type="email">
+                                        <input name="EMAIL" placeholder="ejempl@gmail.com" type="email">
                                         <div class="button">
-                                            <button class="btn">Subscribete<span class="dir-part"></span></button>
+                                            <button class="btn">Suscribirse<span class="dir-part"></span></button>
                                         </div>
                                     </form>
                                 </div>
@@ -78,7 +78,7 @@
                             <!-- Single Widget -->
                             <div class="single-footer f-contact">
                                 <h3>Póngase en contacto con nosotros</h3>
-                                <p class="phone">Telefono:+1 (900) 33 169 7720</p>
+                                <p class="phone">Telefono:(+51) 966 185 308</p>
                                 <ul>
                                     <li><span>Lunes-Sábado: </span> 9.00 am - 8.00 pm</li>
                                     <li><span>Domingo: </span> 10.00 am - 6.00 pm</li>
