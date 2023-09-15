@@ -31,41 +31,10 @@
 
 <body>
 
-<!--WHATSAP-->
 
-<div class="nav-bottom">
-           <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
-      rel="stylesheet">
-            <div class="popup-whatsapp fadeIn">
-                <div class="content-whatsapp -top"><button type="button" class="closePopup">
-                      <i class="material-icons icon-font-color">close</i>
-                    </button> 
-                  
-                   <p>  <img src="secretary.png" width="50">  Hola, ¿en que podemos ayudarle? </p>
-                   
-                </div>
-                <div class="content-whatsapp -bottom">
-                  <input class="whats-input" id="whats-in" type="text" Placeholder="Enviar mensaje..." />
-                   
-                   
-                  
-          
-                    <button class="send-msPopup" id="send-btn" type="button">
-                        <i class="material-icons icon-font-color--black">send</i>
-                    </button>
-
-                </div>
-            </div>
-            <button type="button" id="whats-openPopup" class="whatsapp-button">
-                <div class="float" >
-  <i class="fa fa-whatsapp my-float"></i></div>
-            </button>
-            <div class="circle-anime"></div>
-        </div>
-        <script  src="script2.js"></script>
-        
-
-
+<?php
+include('whatsap.php');
+?>
     <!--[if lte IE 9]>
       <p class="browserupgrade">
         You are using an <strong>outdated</strong> browser. Please
@@ -171,20 +140,19 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
                             <div class="single-blog">
                                 <div class="blog-img">
                                     <a href="blog-single-sidebar.html">
-                                        <img src="assets/images/blog/blog-3.jpg" alt="#">
+                                        <img src="programas.jpg" alt="#">
                                     </a>
                                 </div>
                                 <div class="blog-content">
-                                    <a class="category" href="javascript:void(0)">Electronic</a>
+                                    <a class="category" href="javascript:void(0)">Servicio de</a>
                                     <h4>
-                                        <a href="blog-single-sidebar.html">Electronics, instrumentation & control
-                                            engineering
+                                        <a href="blog-single-sidebar.html">Instalacion de Programas para Pc
+                                            
                                         </a>
                                     </h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt.</p>
+                                    <p class="texto">La instalación de programas adicionales incrementará las funcionalidades de su máquina. Aunque la instalación de un programa puede parecer un proceso relativamente sencillo, su correcta instalación por parte de un profesional puede evitar problemas futuros..</p>
                                     <div class="button">
-                                        <a href="javascript:void(0)" class="btn">Read More</a>
+                                        <a href="javascript:void(0)" class="btn">Adquirir Servicio</a>
                                     </div>
                                 </div>
                             </div>
@@ -367,10 +335,12 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
     <!--/ End Footer Area -->
 
     <!-- ========================= scroll-top ========================= -->
+
+    <!---icono de v PARA ARRIBA---
     <a href="#" class="scroll-top">
         <i class="lni lni-chevron-up"></i>
     </a>
-
+    ---->
     <!-- ========================= JS here ========================= -->
     <!-- ========================= JS here ========================= -->
     <script src="assets/js/bootstrap.min.js"></script>

@@ -7,23 +7,22 @@
     <title>Omega Genius</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://cdn.lineicons.com/4.0/lineicons.css" rel="stylesheet">
+    
 
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.7/css/all.css">
+   
 
     <!----PORTADA-->
 
     <link rel="apple-touch-icon" href="assets2/img/apple-icon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="assets2/img/favicon.ico">
+    
 
     <link rel="stylesheet" href="assets2/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets2/css/templatemo.css">
     <link rel="stylesheet" href="assets2/css/custom.css">
 
     
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
-    <link rel="stylesheet" href="assets2/css/fontawesome.min.css">
+    
 
 
 
@@ -37,10 +36,19 @@
     <link rel="stylesheet" href="assets/css/glightbox.min.css" />
     <link rel="stylesheet" href="assets/css/main.css" />
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+   
+
+
+    
 </head>
 
 <body>
+
+<?php
+include('whatsap.php');
+?>
+
+
     <!--[if lte IE 9]>
       <p class="browserupgrade">
         You are using an <strong>outdated</strong> browser. Please
@@ -1217,9 +1225,23 @@ include('footer.php');
     <!--/ End Footer Area -->
 
     <!-- ========================= scroll-top ========================= -->
+
+
+
+
+
+    <!----ICONO DE V PARA ARRIBA-->
+    <!----
     <a href="#" class="scroll-top">
         <i class="lni lni-chevron-up"></i>
     </a>
+
+
+---->
+
+
+
+
 
     <!-- ========================= JS here ========================= -->
     <script src="assets/js/bootstrap.min.js"></script>
