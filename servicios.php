@@ -126,7 +126,7 @@
                                     </a>
                                 </div>
                                 <div class="blog-content">
-                                    <a class="category" href="javascript:void(0)">eCommerce</a>
+                                    <a class="category" href="javascript:void(0)">Servicio de </a>
                                     <h4>
                                         <a href="blog-single-sidebar.html">Reparación y Mantenimiento de Computo</a>
                                     </h4>

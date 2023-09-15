@@ -74,7 +74,7 @@ include('header.php');
                 <div class="row">
                     <div class="col-12">
                         <div class="section-title">
-                            <h2>Contactanos</h2>
+                            <h2>Contactenos</h2>
                             <p>Hay muchas variaciones de pasajes de Lorem Ipsum disponibles, pero la mayoría ha sufrido alguna alteración.</p>
                         </div>
                     </div>
