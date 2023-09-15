@@ -144,7 +144,7 @@
                             <div class="single-blog">
                                 <div class="blog-img">
                                     <a href="blog-single-sidebar.html">
-                                        <img src="assets/images/blog/blog-2.jpg" alt="#">
+                                        <img src="insdeinter.jpg" alt="#">
                                     </a>
                                 </div>
                                 <div class="blog-content">

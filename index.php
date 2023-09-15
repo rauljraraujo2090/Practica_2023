@@ -135,14 +135,14 @@ include('header.php');
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assets2/img/banner_img_01.jpg" alt="">
+                            <img class="img-fluid" src="./assets2/img/servicio.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
                                 <h1 class="h1">SERVICIOS TECNOLOGICOS</h1>
-                                <h2 class="h2">Realizamos Servicios de todo tipo en general</h2>
+                                <h2 class="h2">Realizamos Servicios informaticos en general</h2>
                                 <p>
-                                    Instalacion de antivirus, servicio de soporte tecnico
+                                    Instalacion de antivirus, servicio de soporte técnico
                                     You are <strong>not permitted</strong> to re-distribute the template ZIP file in any kind of template collection websites.
                                 </p>
                                 <br>
@@ -297,7 +297,7 @@ include('header.php');
                             <div class="hero-small-banner style2">
                                 <div class="content">
                                     <h2>¡Oferta semanal!
-</h2>
+                                    </h2>
                                     <p>Esta semana ahorra hasta un 50 % en todos los artículos de la tienda online.</p>
                                     <div class="button">
                                         <a class="btn" href="product-grids.html">Compra ahora</a>
