@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <title>Blog Grid Sidebar - ShopGrids Bootstrap 5 eCommerce HTML Template.</title>
+    <title>Servicioss</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
@@ -122,18 +122,23 @@
                             <div class="single-blog">
                                 <div class="blog-img">
                                     <a href="blog-single-sidebar.html">
-                                        <img src="assets/images/blog/blog-1.jpg" alt="#">
+                                        <img src="reparacion1.jpg" alt="#">
                                     </a>
                                 </div>
                                 <div class="blog-content">
                                     <a class="category" href="javascript:void(0)">eCommerce</a>
                                     <h4>
-                                        <a href="blog-single-sidebar.html">What information is needed for shipping?</a>
+                                        <a href="blog-single-sidebar.html">Reparación y Mantenimiento de Computo</a>
                                     </h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                        incididunt.</p>
+                                    <p class="texto">El mantenimiento preventivo y correctivo de computadoras te permite mantener tus dispositivos como computadores portátiles y computadores de escritorio PC, operando en perfectas condiciones.
+<style>
+    .texto{
+        text-align: justify;
+    }
+</style>
+Además, previenes posible fallas o problemas que podrían requerir a futuro el mantenimiento correctivo o la reparación total o parcial de tus computadores.</p>
                                     <div class="button">
-                                        <a href="javascript:void(0)" class="btn">Read More</a>
+                                        <a href="javascript:void(0)" class="btn">Realizar Consulta</a>
                                     </div>
                                 </div>
                             </div>
