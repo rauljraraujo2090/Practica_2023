@@ -31,8 +31,21 @@
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-<header class="header navbar-area">
+<header id="menu"class="header navbar-area">
+    <style>
+
+        #menu{
+            position: fixed;
+            
+            margin-bottom: 12px;
+            
+        }
+    </style>
         <!-- Start Topbar -->
+
+
+
+        <!---MENU COLOR NEGRO----
         <div class="topbar">
             <div class="container">
                 <div class="row align-items-center">
@@ -95,6 +108,10 @@
                 </div>
             </div>
         </div>
+
+
+
+        ----->
         <!-- End Topbar -->
         <!-- Start Header Middle -->
         <div class="header-middle">
