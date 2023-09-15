@@ -157,7 +157,7 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
                                     <h4>
                                         <a href="blog-single-sidebar.html">Instalación y mantenimiento de Redes</a>
                                     </h4>
-                                    <p>Ofrecemos soluciones de conexión a Internet  y electrónica de redes, tanto si necesitas una nueva instalación de red cableada, como si tienes problemas de tu red actual, nosotros tenemos la mejor solución.
+                                    <p class="texto">Ofrecemos soluciones de conexión a Internet  y electrónica de redes, tanto si necesitas una nueva instalación de red cableada, como si tienes problemas de tu red actual, nosotros tenemos la mejor solución.
                                        La instalación de redes se comprende desde la instalación del cableado informático, como la instalación de centrales de redes para centralizar toda la red informática</p>
                                     <div class="button">
                                         <a href="javascript:void(0)" class="btn">Read More</a>
