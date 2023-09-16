@@ -75,7 +75,7 @@ include('whatsap.php');
 
 <?php
 
-include('header.php');
+include('include/header.php');
 ?>
 
 
@@ -1219,7 +1219,7 @@ include('header.php');
 
 
 <?php
-include('footer.php');
+include('include/footer.php');
 ?>
 
 

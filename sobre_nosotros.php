@@ -40,7 +40,7 @@
 
     <!-- Start Header Area -->
     <?php
-    include('header.php');
+    include('include/header.php');
     ?>
     <!-- End Header Area -->
 
@@ -210,7 +210,7 @@ Estamos en los centros tecnológicos más grandes del país: Compuplaza, Cyberpl
 
     <!-- Start Footer Area -->
     <?php
-    include('footer.php');
+    include('include/footer.php');
     ?>
     <!--/ End Footer Area -->
 

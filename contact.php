@@ -43,7 +43,7 @@
     
                                             <?php
 
-include('header.php');
+include('include/header.php');
 ?>
     <!-- End Header Area -->
   
@@ -169,7 +169,7 @@ include('header.php');
     <!-- Start Footer Area -->
     <?php
 
-include('footer.php');
+include('include/footer.php');
 ?>
     <!--/ End Footer Area -->
 

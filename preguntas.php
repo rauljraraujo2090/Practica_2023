@@ -49,7 +49,7 @@
     </div>
     <!-- /End Preloader -->
 <?php
-include('header.php');
+include('include/header.php');
 ?>
     <!-- Start Header Area -->
     
@@ -202,7 +202,7 @@ include('header.php');
 
     <!-- Start Footer Area -->
     <?php
-include('footer.php');
+include('include/footer.php');
 ?>
     <!--/ End Footer Area -->
 

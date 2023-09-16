@@ -55,7 +55,7 @@ include('whatsap.php');
     <!-- /End Preloader -->
 
     <?php
-    include('header.php');
+    include('include/header.php');
     ?>
     <!-- End Header Area -->
 
@@ -330,7 +330,7 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
 
     <!-- Start Footer Area -->
     <?php
-    include('footer.php');
+    include('include/footer.php');
     ?>
     <!--/ End Footer Area -->
 
