@@ -7,13 +7,13 @@
     <title>Servicioss</title>
     <meta name="description" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
+    <link rel="shortcut icon" type="image/x-icon" href="../assets/images/favicon.svg" />
 
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.3.0.css" />
-    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
-    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../assets/css/LineIcons.3.0.css" />
+    <link rel="stylesheet" href="../assets/css/tiny-slider.css" />
+    <link rel="stylesheet" href="../assets/css/glightbox.min.css" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
     <!--WATSAP-->
 
     <link rel="stylesheet" href="style.css">
@@ -33,7 +33,7 @@
 
 
 <?php
-include('whatsap.php');
+include('../plugin/whatsap.php');
 ?>
     <!--[if lte IE 9]>
       <p class="browserupgrade">
@@ -55,7 +55,7 @@ include('whatsap.php');
     <!-- /End Preloader -->
 
     <?php
-    include('include/header.php');
+    include('../include/header.php');
     ?>
     <!-- End Header Area -->
 
@@ -70,7 +70,7 @@ include('whatsap.php');
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <ul class="breadcrumb-nav">
-                        <li><a href="index.php"><i class="lni lni-home"></i> Inicio</a></li>
+                        <li><a href="pagina/index.php"><i class="lni lni-home"></i> Inicio</a></li>
                         <li><a href="index.html">Blog</a></li>
                         <li>Servicios</li>
                     </ul>
@@ -91,7 +91,7 @@ include('whatsap.php');
                             <div class="single-blog">
                                 <div class="blog-img">
                                     <a href="blog-single-sidebar.html">
-                                        <img src="reparacion1.jpg" alt="#">
+                                        <img src="../assets/images/servicios/reparacion1.jpg" alt="#">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -118,7 +118,7 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
                             <div class="single-blog">
                                 <div class="blog-img">
                                     <a href="blog-single-sidebar.html">
-                                        <img src="insdeinter.jpg" alt="#">
+                                        <img src="../assets/images/servicios/insdeinter.jpg" alt="#">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -140,7 +140,7 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
                             <div class="single-blog">
                                 <div class="blog-img">
                                     <a href="blog-single-sidebar.html">
-                                        <img src="programas.jpg" alt="#">
+                                        <img src="../assets/images/servicios/programas.jpg" alt="#">
                                     </a>
                                 </div>
                                 <div class="blog-content">
@@ -330,7 +330,7 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
 
     <!-- Start Footer Area -->
     <?php
-    include('include/footer.php');
+    include('../include/footer.php');
     ?>
     <!--/ End Footer Area -->
 
@@ -343,10 +343,10 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
     ---->
     <!-- ========================= JS here ========================= -->
     <!-- ========================= JS here ========================= -->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/tiny-slider.js"></script>
-    <script src="assets/js/glightbox.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/tiny-slider.js"></script>
+    <script src="../assets/js/glightbox.min.js"></script>
+    <script src="../assets/js/main.js"></script>
     <script type="text/javascript">
         //========= Hero Slider 
         tns({
@@ -426,14 +426,7 @@ Además, previenes posible fallas o problemas que podrían requerir a futuro el 
 
 
 
-<!----PORTADA-->
 
- <!-- Start Script -->
- <script src="assets2/js/jquery-1.11.0.min.js"></script>
- <script src="assets2/js/jquery-migrate-1.2.1.min.js"></script>
- <script src="assets2/js/bootstrap.bundle.min.js"></script>
- <script src="assets2/js/templatemo.js"></script>
- <script src="assets2/js/custom.js"></script>
 </body>
 
 </html>

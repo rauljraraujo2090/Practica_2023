@@ -14,12 +14,12 @@
 
     <!----PORTADA-->
 
-    <link rel="apple-touch-icon" href="assets2/img/apple-icon.png">
+    <link rel="apple-touch-icon" href="../assets2/img/apple-icon.png">
     
 
-    <link rel="stylesheet" href="assets2/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets2/css/templatemo.css">
-    <link rel="stylesheet" href="assets2/css/custom.css">
+    <link rel="stylesheet" href="../assets2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../assets2/css/templatemo.css">
+    <link rel="stylesheet" href="../assets2/css/custom.css">
 
     
     
@@ -30,11 +30,11 @@
 
 
     <!-- ========================= CSS here ========================= -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.3.0.css" />
-    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
-    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../assets/css/LineIcons.3.0.css" />
+    <link rel="stylesheet" href="../assets/css/tiny-slider.css" />
+    <link rel="stylesheet" href="../assets/css/glightbox.min.css" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
 
    
 
@@ -46,7 +46,7 @@
   
 
 <?php
-include('whatsap.php');
+include('../plugin/whatsap.php');
 ?>
 
 
@@ -75,7 +75,7 @@ include('whatsap.php');
 
 <?php
 
-include('include/header.php');
+include('../include/header.php');
 ?>
 
 
@@ -144,7 +144,7 @@ include('include/header.php');
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assets2/img/servicio.png" alt="">
+                            <img class="img-fluid" src="../assets2/img/servicio.png" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
@@ -157,7 +157,7 @@ include('include/header.php');
                                 <br>
                                 
                                 <div class="button">
-                                        <a href="servicios.php" class="btn">ir Ahora</a>
+                                        <a href="../pagina/servicios.php" class="btn">ir Ahora</a>
                                     </div>
                             </div>
                         </div>
@@ -168,7 +168,7 @@ include('include/header.php');
                 <div class="container">
                     <div class="row p-5">
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid" src="./assets2/img/banner_img_03.jpg" alt="">
+                            <img class="img-fluid" src="../assets2/img/banner_img_03.jpg" alt="">
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
@@ -225,7 +225,7 @@ include('include/header.php');
                             <!-- Start Single Slider -->
                             <div class="single-slider"
                                 
-                                style="background-image: url(assets/images/hero/3333.jpg);">
+                                style="background-image: url(../assets/images/hero/3333.jpg);">
                                 <div class="content">
                                     <h2><span>No restocking fee ($35 savings)</span>
                                         M75 Sport Watch
@@ -242,7 +242,7 @@ include('include/header.php');
                             <!-- Start Single Slider -->
                             <div class="single-slider"
                                 
-                                style="background-image: url(assets/images/hero/55.jpg);">
+                                style="background-image: url(../assets/images/hero/55.jpg);">
                                 <div class="content">
                                     <h2><span>Big Sale Offer</span>
                                         Get the Best Deal on CCTV Camera
@@ -263,7 +263,7 @@ include('include/header.php');
 
 
                             <div class="single-slider"
-                                style="background-image: url(assets/images/hero/66.jpg);">
+                                style="background-image: url(../assets/images/hero/66.jpg);">
                                 <div class="content">
                                     <h2><span>Big Sale Offer</span>
                                         Get the Best Deal on CCTV Camera
@@ -290,7 +290,7 @@ include('include/header.php');
                         <div class="col-lg-12 col-md-6 col-12 md-custom-padding">
                             <!-- Start Small Banner -->
                             <div class="hero-small-banner"
-                                style="background-image: url('assets/images/hero/slider-bnr.jpg');">
+                                style="background-image: url('../assets/images/hero/slider-bnr.jpg');">
                                 <div class="content">
                                     <h2>
                                         <span>New line required</span>
@@ -350,7 +350,7 @@ include('include/header.php');
                             <li><a href="product-grids.html">View All</a></li>
                         </ul>
                         <div class="images">
-                            <img src="assets/images/featured-categories/fetured-item-1.png" alt="#">
+                            <img src="../assets/images/featured-categories/fetured-item-1.png" alt="#">
                         </div>
                     </div>
                     <!-- End Single Category -->
@@ -367,7 +367,7 @@ include('include/header.php');
                             <li><a href="product-grids.html">View All</a></li>
                         </ul>
                         <div class="images">
-                            <img src="assets/images/featured-categories/fetured-item-2.png" alt="#">
+                            <img src="../assets/images/featured-categories/fetured-item-2.png" alt="#">
                         </div>
                     </div>
                     <!-- End Single Category -->
@@ -384,7 +384,7 @@ include('include/header.php');
                             <li><a href="product-grids.html">View All</a></li>
                         </ul>
                         <div class="images">
-                            <img src="assets/images/featured-categories/fetured-item-3.png" alt="#">
+                            <img src="../assets/images/featured-categories/fetured-item-3.png" alt="#">
                         </div>
                     </div>
                     <!-- End Single Category -->
@@ -401,7 +401,7 @@ include('include/header.php');
                             <li><a href="product-grids.html">View All</a></li>
                         </ul>
                         <div class="images">
-                            <img src="assets/images/featured-categories/fetured-item-4.png" alt="#">
+                            <img src="../assets/images/featured-categories/fetured-item-4.png" alt="#">
                         </div>
                     </div>
                     <!-- End Single Category -->
@@ -418,7 +418,7 @@ include('include/header.php');
                             <li><a href="product-grids.html">View All</a></li>
                         </ul>
                         <div class="images">
-                            <img src="assets/images/featured-categories/fetured-item-5.png" alt="#">
+                            <img src="../assets/images/featured-categories/fetured-item-5.png" alt="#">
                         </div>
                     </div>
                     <!-- End Single Category -->
@@ -435,7 +435,7 @@ include('include/header.php');
                             <li><a href="product-grids.html">View All</a></li>
                         </ul>
                         <div class="images">
-                            <img src="assets/images/featured-categories/fetured-item-6.png" alt="#">
+                            <img src="../assets/images/featured-categories/fetured-item-6.png" alt="#">
                         </div>
                     </div>
                     <!-- End Single Category -->
@@ -462,7 +462,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-1.jpg" alt="#">
+                            <img src="../assets/images/products/product-1.jpg" alt="#">
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
                             </div>
@@ -491,7 +491,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-2.jpg" alt="#">
+                            <img src="../assets/images/products/product-2.jpg" alt="#">
                             <span class="sale-tag">-25%</span>
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
@@ -522,7 +522,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-3.jpg" alt="#">
+                            <img src="../assets/images/products/product-3.jpg" alt="#">
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
                             </div>
@@ -551,7 +551,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-4.jpg" alt="#">
+                            <img src="../assets/images/products/product-4.jpg" alt="#">
                             <span class="new-tag">New</span>
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
@@ -581,7 +581,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-5.jpg" alt="#">
+                            <img src="../assets/images/products/product-5.jpg" alt="#">
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
                             </div>
@@ -639,7 +639,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-7.jpg" alt="#">
+                            <img src="../assets/images/products/product-7.jpg" alt="#">
                             <span class="sale-tag">-50%</span>
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
@@ -670,7 +670,7 @@ include('include/header.php');
                     <!-- Start Single Product -->
                     <div class="single-product">
                         <div class="product-image">
-                            <img src="assets/images/products/product-8.jpg" alt="#">
+                            <img src="../assets/images/products/product-8.jpg" alt="#">
                             <div class="button">
                                 <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to Cart</a>
                             </div>
@@ -705,7 +705,7 @@ include('include/header.php');
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-12">
-                    <div class="single-banner" style="background-image:url('assets/images/banner/banner-1-bg.jpg')">
+                    <div class="single-banner" style="background-image:url('../assets/images/banner/banner-1-bg.jpg')">
                         <div class="content">
                             <h2>Smart Watch 2.0</h2>
                             <p>Space Gray Aluminum Case with <br>Black/Volt Real Sport Band </p>
@@ -717,7 +717,7 @@ include('include/header.php');
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="single-banner custom-responsive-margin"
-                        style="background-image:url('assets/images/banner/banner-2-bg.jpg')">
+                        style="background-image:url('../assets/images/banner/banner-2-bg.jpg')">
                         <div class="content">
                             <h2>Smart Headphone</h2>
                             <p>Lorem ipsum dolor sit amet, <br>eiusmod tempor
@@ -752,7 +752,7 @@ include('include/header.php');
                             <!-- Start Single Product -->
                             <div class="single-product">
                                 <div class="product-image">
-                                    <img src="assets/images/products/product-3.jpg" alt="#">
+                                    <img src="../assets/images/products/product-3.jpg" alt="#">
                                     <div class="button">
                                         <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
                                             Cart</a>
@@ -782,7 +782,7 @@ include('include/header.php');
                             <!-- Start Single Product -->
                             <div class="single-product">
                                 <div class="product-image">
-                                    <img src="assets/images/products/product-8.jpg" alt="#">
+                                    <img src="../assets/images/products/product-8.jpg" alt="#">
                                     <div class="button">
                                         <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
                                             Cart</a>
@@ -812,7 +812,7 @@ include('include/header.php');
                             <!-- Start Single Product -->
                             <div class="single-product">
                                 <div class="product-image">
-                                    <img src="assets/images/products/product-6.jpg" alt="#">
+                                    <img src="../assets/images/products/product-6.jpg" alt="#">
                                     <div class="button">
                                         <a href="product-details.html" class="btn"><i class="lni lni-cart"></i> Add to
                                             Cart</a>
@@ -841,7 +841,7 @@ include('include/header.php');
                     </div>
                     <!-- Start Banner -->
                     <div class="single-banner right"
-                        style="background-image:url('assets/images/banner/banner-3-bg.jpg');margin-top: 30px;">
+                        style="background-image:url('../assets/images/banner/banner-3-bg.jpg');margin-top: 30px;">
                         <div class="content">
                             <h2>Samsung Notebook 9 </h2>
                             <p>Lorem ipsum dolor sit amet, <br>eiusmod tempor
@@ -859,7 +859,7 @@ include('include/header.php');
                 <div class="col-lg-4 col-md-12 col-12">
                     <div class="offer-content">
                         <div class="image">
-                            <img src="assets/images/offer/offer-image.jpg" alt="#">
+                            <img src="../assets/images/offer/offer-image.jpg" alt="#">
                             <span class="sale-tag">-50%</span>
                         </div>
                         <div class="text">
@@ -916,7 +916,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/01.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/01.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -929,7 +929,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/02.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/02.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -942,7 +942,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/03.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/03.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -958,7 +958,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/04.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/04.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -971,7 +971,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/05.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/05.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -984,7 +984,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/06.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/06.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -1000,7 +1000,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/07.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/07.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -1013,7 +1013,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/08.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/08.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -1026,7 +1026,7 @@ include('include/header.php');
                     <!-- Start Single List -->
                     <div class="single-list">
                         <div class="list-image">
-                            <a href="product-grids.html"><img src="assets/images/home-product-list/09.jpg" alt="#"></a>
+                            <a href="product-grids.html"><img src="../assets/images/home-product-list/09.jpg" alt="#"></a>
                         </div>
                         <div class="list-info">
                             <h3>
@@ -1053,28 +1053,28 @@ include('include/header.php');
             <div class="brands-logo-wrapper">
                 <div class="brands-logo-carousel d-flex align-items-center justify-content-between">
                     <div class="brand-logo">
-                        <img src="assets/images/brands/01.png" alt="#">
+                        <img src="../assets/images/brands/01.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/02.png" alt="#">
+                        <img src="../assets/images/brands/02.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/03.png" alt="#">
+                        <img src="../assets/images/brands/03.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/04.png" alt="#">
+                        <img src="../assets/images/brands/04.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/05.png" alt="#">
+                        <img src="../assets/images/brands/05.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/06.png" alt="#">
+                        <img src="../assets/images/brands/06.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/03.png" alt="#">
+                        <img src="../assets/images/brands/03.png" alt="#">
                     </div>
                     <div class="brand-logo">
-                        <img src="assets/images/brands/04.png" alt="#">
+                        <img src="../assets/images/brands/04.png" alt="#">
                     </div>
                 </div>
             </div>
@@ -1101,7 +1101,7 @@ include('include/header.php');
                     <div class="single-blog">
                         <div class="blog-img">
                             <a href="blog-single-sidebar.html">
-                                <img src="assets/images/blog/pc_2.jpg" alt="#">
+                                <img src="../assets/images/blog/pc_2.jpg" alt="#">
                             </a>
                         </div>
                         <div class="blog-content">
@@ -1123,7 +1123,7 @@ include('include/header.php');
                     <div class="single-blog">
                         <div class="blog-img">
                             <a href="blog-single-sidebar.html">
-                                <img src="assets/images/blog/pc_3.webp" alt="#">
+                                <img src="../assets/images/blog/pc_3.webp" alt="#">
                             </a>
                         </div>
                         <div class="blog-content">
@@ -1145,7 +1145,7 @@ include('include/header.php');
                     <div class="single-blog">
                         <div class="blog-img">
                             <a href="blog-single-sidebar.html">
-                                <img src="assets/images/blog/pc_4.jpg" alt="#">
+                                <img src="../assets/images/blog/pc_4.jpg" alt="#">
                             </a>
                         </div>
                         <div class="blog-content">
@@ -1219,7 +1219,7 @@ include('include/header.php');
 
 
 <?php
-include('include/footer.php');
+include('../include/footer.php');
 ?>
 
 
@@ -1246,10 +1246,10 @@ include('include/footer.php');
 
 
     <!-- ========================= JS here ========================= -->
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/tiny-slider.js"></script>
-    <script src="assets/js/glightbox.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/tiny-slider.js"></script>
+    <script src="../assets/js/glightbox.min.js"></script>
+    <script src="../assets/js/main.js"></script>
     <script type="text/javascript">
         //========= Hero Slider 
         tns({
@@ -1332,11 +1332,11 @@ include('include/footer.php');
 <!----PORTADA-->
 
  <!-- Start Script -->
- <script src="assets2/js/jquery-1.11.0.min.js"></script>
- <script src="assets2/js/jquery-migrate-1.2.1.min.js"></script>
- <script src="assets2/js/bootstrap.bundle.min.js"></script>
- <script src="assets2/js/templatemo.js"></script>
- <script src="assets2/js/custom.js"></script>
+ <script src="../assets2/js/jquery-1.11.0.min.js"></script>
+ <script src="../assets2/js/jquery-migrate-1.2.1.min.js"></script>
+ <script src="../assets2/js/bootstrap.bundle.min.js"></script>
+ <script src="../assets2/js/templatemo.js"></script>
+ <script src="../assets2/js/custom.js"></script>
  <!-- End Script -->
 </body>
 

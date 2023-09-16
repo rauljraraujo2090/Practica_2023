@@ -6,8 +6,8 @@
     <title>WhatsAp</title>
 
     <!-- Style of the plugin -->
-     <link rel="stylesheet" href="plugin/components/Font Awesome/css/font-awesome.min.css">
-     <link rel="stylesheet" href="plugin/whatsapp-chat-support.css">
+     <link rel="stylesheet" href="../plugin/components/Font Awesome/css/font-awesome.min.css">
+     <link rel="stylesheet" href="../plugin/whatsapp-chat-support.css">
 
 </head>
 <body>
@@ -18,7 +18,7 @@
             Contáctanos
         </div>  
     <div class="wcs_button wcs_button_circle">
-        <span><img src="whatsapp.png"></span>
+        <span><img src="../plugin/whatsapp.png"></span>
     </div>  
     
     <div class="wcs_popup">
@@ -39,18 +39,18 @@
             <i class="fa fa-play"></i>
         </div>
         <div class="wcs_popup_avatar">
-            <img src="raul.jfif" alt="">
+            <img src="../plugin/raul.jfif" alt="">
         </div>
     </div>
 </div>
 
 
     <!-- jQuery 1.8+ -->
-<script src="plugin/components/jQuery/jquery-1.11.3.min.js"></script>
+<script src="../plugin/components/jQuery/jquery-1.11.3.min.js"></script>
     <!-- Plugin JS file -->
-<script src="plugin/components/moment/moment.min.js"></script>
-<script src="plugin/components/moment/moment-timezone-with-data.min.js"></script> <!-- spanish language (es) -->
-<script src="plugin/whatsapp-chat-support.js"></script>
+<script src="../plugin/components/moment/moment.min.js"></script>
+<script src="../plugin/components/moment/moment-timezone-with-data.min.js"></script> <!-- spanish language (es) -->
+<script src="../plugin/whatsapp-chat-support.js"></script>
 <script>
    $('#button-w').whatsappChatSupport({
         defaultMsg : '',

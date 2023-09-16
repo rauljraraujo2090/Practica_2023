@@ -19,11 +19,11 @@
 
 
     <!-- ========================= CSS here ========================= -->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/LineIcons.3.0.css" />
-    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
-    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
-    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../assets/css/LineIcons.3.0.css" />
+    <link rel="stylesheet" href="../assets/css/tiny-slider.css" />
+    <link rel="stylesheet" href="../assets/css/glightbox.min.css" />
+    <link rel="stylesheet" href="../assets/css/main.css" />
 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -49,7 +49,7 @@
     </div>
     <!-- /End Preloader -->
 <?php
-include('include/header.php');
+include('../include/header.php');
 ?>
     <!-- Start Header Area -->
     
@@ -66,7 +66,7 @@ include('include/header.php');
                 </div>
                 <div class="col-lg-6 col-md-6 col-12">
                     <ul class="breadcrumb-nav">
-                        <li><a href="index.html"><i class="lni lni-home"></i>Inicio</a></li>
+                        <li><a href="../pagina/index.php"><i class="lni lni-home"></i>Inicio</a></li>
                         <li>Preguntas Frecuentes</li>
                     </ul>
                 </div>
@@ -202,7 +202,7 @@ include('include/header.php');
 
     <!-- Start Footer Area -->
     <?php
-include('include/footer.php');
+include('../include/footer.php');
 ?>
     <!--/ End Footer Area -->
 
@@ -212,10 +212,10 @@ include('include/footer.php');
     </a>
 
    <!-- ========================= JS here ========================= -->
-   <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/tiny-slider.js"></script>
-    <script src="assets/js/glightbox.min.js"></script>
-    <script src="assets/js/main.js"></script>
+   <script src="../assets/js/bootstrap.min.js"></script>
+    <script src="../assets/js/tiny-slider.js"></script>
+    <script src="../assets/js/glightbox.min.js"></script>
+    <script src="../assets/js/main.js"></script>
     <script type="text/javascript">
         //========= Hero Slider 
         tns({

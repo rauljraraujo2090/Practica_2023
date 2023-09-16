@@ -6,12 +6,12 @@
 
 <!----PORTADA-->
 
-<link rel="apple-touch-icon" href="assets2/img/apple-icon.png">
-<link rel="shortcut icon" type="image/x-icon" href="assets2/img/favicon.ico">
+<link rel="apple-touch-icon" href="../assets2/img/apple-icon.png">
+<link rel="shortcut icon" type="image/x-icon" href="../assets2/img/favicon.ico">
 
-<link rel="stylesheet" href="assets2/css/bootstrap.min.css">
-<link rel="stylesheet" href="assets2/css/templatemo.css">
-<link rel="stylesheet" href="assets2/css/custom.css">
+<link rel="stylesheet" href="../assets2/css/bootstrap.min.css">
+<link rel="stylesheet" href="../assets2/css/templatemo.css">
+<link rel="stylesheet" href="../assets2/css/custom.css">
 
 
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
@@ -23,11 +23,11 @@
 
 
 <!-- ========================= CSS here ========================= -->
-<link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-<link rel="stylesheet" href="assets/css/LineIcons.3.0.css" />
-<link rel="stylesheet" href="assets/css/tiny-slider.css" />
-<link rel="stylesheet" href="assets/css/glightbox.min.css" />
-<link rel="stylesheet" href="assets/css/main.css" />
+<link rel="stylesheet" href="../assets/css/bootstrap.min.css" />
+<link rel="stylesheet" href="../assets/css/LineIcons.3.0.css" />
+<link rel="stylesheet" href="../assets/css/tiny-slider.css" />
+<link rel="stylesheet" href="../assets/css/glightbox.min.css" />
+<link rel="stylesheet" href="../assets/css/main.css" />
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
@@ -119,8 +119,8 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-3 col-7">
                         <!-- Start Header Logo -->
-                        <a class="navbar-brand" href="index.php">
-                            <img src="assets/images/logo/omega_logos.svg" alt="Logo">
+                        <a class="navbar-brand" href="../pagina/index.php">
+                            <img src="../assets/images/logo/omega_logos.svg" alt="Logo">
                         </a>
                         <!-- End Header Logo -->
                     </div>
@@ -184,7 +184,7 @@
                                                         class="lni lni-close"></i></a>
                                                 <div class="cart-img-head">
                                                     <a class="cart-img" href="product-details.html"><img
-                                                            src="assets/images/header/cart-items/item1.jpg" alt="#"></a>
+                                                            src="../assets/images/header/cart-items/item1.jpg" alt="#"></a>
                                                 </div>
 
                                                 <div class="content">
@@ -274,15 +274,15 @@
                             <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
                                 <ul id="nav" class="navbar-nav ms-auto">
                                     <li class="nav-item">
-                                        <a href="index.php" class="active" aria-label="Toggle navigation">Inicio</a>
+                                        <a href="../pagina/index.php" class="active" aria-label="Toggle navigation">Inicio</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="dd-menu collapsed" href="javascript:void(0)" data-bs-toggle="collapse"
                                             data-bs-target="#submenu-1-2" aria-controls="navbarSupportedContent"
                                             aria-expanded="false" aria-label="Toggle navigation">Paginas</a>
                                         <ul class="sub-menu collapse" id="submenu-1-2">
-                                            <li class="nav-item"><a href="sobre_nosotros.php">Sobre Nosotros</a></li>
-                                            <li class="nav-item"><a href="preguntas.php">Preguntas Más Frecuentes</a></li>
+                                            <li class="nav-item"><a href="../pagina/sobre_nosotros.php">Sobre Nosotros</a></li>
+                                            <li class="nav-item"><a href="../pagina/preguntas.php">Preguntas Más Frecuentes</a></li>
                                             <li class="nav-item"><a href="login.html">Login</a></li>
                                             <li class="nav-item"><a href="register.html">Register</a></li>
                                             <li class="nav-item"><a href="mail-success.html">Mail Success</a></li>
@@ -302,10 +302,10 @@
                                         </ul>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="servicios.php" class="active" aria-label="Toggle navigation">Servicios</a>
+                                        <a href="../pagina/servicios.php" class="active" aria-label="Toggle navigation">Servicios</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a href="contact.php" aria-label="Toggle navigation">Contacto</a>
+                                        <a href="../pagina/contact.php" aria-label="Toggle navigation">Contacto</a>
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->

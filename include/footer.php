@@ -42,7 +42,7 @@
                         <div class="col-lg-3 col-md-4 col-12">
                             <div class="footer-logo">
                                 <a href="index.html">
-                                    <img src="omega_blanco.svg"#">
+                                    <img src="../assets/images/logo/omega_blanco.svg">
                                 </a>
                             </div>
                         </div>
@@ -115,11 +115,11 @@
                             <div class="single-footer f-link">
                                 <h3>Información</h3>
                                 <ul>
-                                    <li><a href="sobre_nosotros.php">Sobre Nosotros</a></li>
-                                    <li><a href="contact.php">Contáctenos</a></li>
+                                    <li><a href="../pagina/sobre_nosotros.php">Sobre Nosotros</a></li>
+                                    <li><a href="../paginacontact.php">Contáctenos</a></li>
                                     <li><a href="javascript:void(0)">Descargas</a></li>
                                     <li><a href="javascript:void(0)">Mapa del sitio</a></li>
-                                    <li><a href="preguntas.php">Página de preguntas frecuentes </a></li>
+                                    <li><a href="../pagina/preguntas.php">Página de preguntas frecuentes </a></li>
                                 </ul>
                             </div>
                             <!-- End Single Widget -->
@@ -151,7 +151,7 @@
                         <div class="col-lg-4 col-12">
                             <div class="payment-gateway">
                                 <span>Aceptamos:</span>
-                                <img src="assets/images/footer/credit-cards-footer.png" alt="#">
+                                <img src="../assets/images/footer/credit-cards-footer.png" alt="#">
                             </div>
                         </div>
                         <div class="col-lg-4 col-12">
