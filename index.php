@@ -189,7 +189,7 @@ while($row=mysqli_fetch_array($sql))
                             </div>
                         </div>
                     </div>
-                    <div class="hero__item set-bg" data-setbg="ogani-master/img/hero/banner.jpg">
+                    <div class="hero__item set-bg" data-setbg="ogani-master/img/hero/55.jpg">
                         <div class="hero__text">
                             <span>FRUIT FRESH</span>
                             <h2>Vegetable <br />100% Organic</h2>
@@ -439,12 +439,12 @@ while ($row=mysqli_fetch_array($ret))
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="banner__pic">
-                        <img src="ogani-master/img/banner/banner-1.jpg" alt="">
+                        <img src="ogani-master/img/banner/uno.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6">
                     <div class="banner__pic">
-                        <img src="ogani-master/img/banner/banner-2.jpg" alt="">
+                        <img src="ogani-master/img/banner/dos.jpg" alt="">
                     </div>
                 </div>
             </div>
