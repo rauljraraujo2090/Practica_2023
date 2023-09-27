@@ -1,4 +1,6 @@
 
+<!---https://www.oechsle.pe/tecnologia/computo/laptops?search=P:[35%20TO%2057699]&optionOrderBy=OrderByReleaseDateDESC&page=1--->
+
 <?php
 session_start();
 error_reporting(0);
