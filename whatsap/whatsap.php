@@ -34,7 +34,7 @@
         </div>  
         <div class="wcs_popup_input" 
             data-number="528123861273"
-            data-availability='{ "monday":"07:00-22:30", "tuesday":"07:00-22:30", "wednesday":"07:7030-22:30", "thursday":"07:00-22:30", "friday":"07:00-22:30", "saturday":"09:00-18:30", "sunday":"09:00-22:30" }'>
+            data-availability='{ "monday":"07:00-22:30", "tuesday":"07:00-22:30", "wednesday":"07:30-17:15", "thursday":"07:00-22:30", "friday":"07:00-22:30", "saturday":"09:00-18:30", "sunday":"09:00-22:30" }'>
             <input type="text" placeholder="Escribir pregunta!" />
             <i class="fa fa-play"></i>
         </div>
