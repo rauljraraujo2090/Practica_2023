@@ -37,9 +37,9 @@
                             <a href="./index.html"><img src="ogani-master/img/omega-genius.png" alt=""></a>
                         </div>
                         <ul>
-                            <li>Dirección:caceres S/N</li>
-                            <li>Teléfono: +51 986 999 343</li>
-                            <li>Email: omegagenius@gmail.com</li>
+                            <li>Dirección: Jr. General Córdova Nro. 524</li>
+                            <li>Teléfono: +51 966 185 308</li>
+                            <li>Email: omegageniuseirl@gmail.com</li>
                         </ul>
                     </div>
                 </div>

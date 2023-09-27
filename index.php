@@ -184,8 +184,8 @@ while($row=mysqli_fetch_array($sql))
                                 <i class="fa fa-phone"></i>
                             </div>
                             <div class="hero__search__phone__text">
-                                <h5>+51 904 240 525</h5>
-                                <span>sopport 24/7 time</span>
+                                <h5>+51 966 185 308</h5>
+                                <span>Contactanos</span>
                             </div>
                         </div>
                     </div>

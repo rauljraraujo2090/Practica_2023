@@ -260,7 +260,7 @@ echo htmlentities($_SESSION['errmsg']="");
                 <div class="text-group">
                   <h2>Bienvenido</h2>
                   <h2>Customize as you like</h2>
-                  <h2>Invite students to your class</h2>
+                  <h2>Omega Genius E.I.R.L</h2>
                 </div>
               </div>
 
